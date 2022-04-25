@@ -1,4 +1,31 @@
+body{
+    background-size: cover;
+}
+
 .heading{
     width: 100%;
     text-align: center;
 }
+
+.heading h3{
+    display: inline;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.heading button{
+    float: right;
+    width: 95px;
+}  
+
+.copyright_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: aquamarine;
+    color: rgb(13, 10, 10);
+    text-align: center;
+    line-height: 2;
+}
+
+
